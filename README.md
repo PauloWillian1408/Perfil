@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Paulo Willian Costa Rodrigues, tenho 20 anos e sou de Belém do Pará. Concluí o Ensino Médio na EETEPA Vilhena Alves, com o curso Técnico em Informática. Atualmente, estou cursando Sistemas de Informação na Faculdade Faci Wyden. Sou apaixonado por tecnologia, faço parte do Movimento Escoteiro desde dos meus 15 anos hoje em dia faço parte da região escoteira do pará exercendo alguns cargos como: Coordenador Regional dos Jovens Líderes, Comissão Fiscal Regional e no Distrito Metropolitano sou secretário ds Comissão Distrital Pioneira.
+Eu me chamo Paulo Willian Costa Rodrigues, tenho 20 anos e sou de Belém do Pará. Concluí o Ensino Médio na EETEPA Vilhena Alves, com o curso Técnico em Informática. Atualmente, estou cursando Sistemas de Informação na Faculdade Faci Wyden. Sou apaixonado por tecnologia, faço parte do Movimento Escoteiro desde dos meus 15 anos hoje em dia faço parte da região escoteira do pará exercendo alguns cargos como: Coordenador Regional dos Jovens Líderes, Comissão Fiscal Regional e no Distrito Metropolitano sou secretário ds Comissão Distrital Pioneira.
 
 ---
 
