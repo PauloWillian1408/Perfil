@@ -50,8 +50,8 @@ Eu me chamo Paulo Willian Costa Rodrigues, tenho 20 anos e sou de BelÃ©m do ParÃ
 />
 <img 
     align="left" 
-    alt="ARDUINO"
-    title="ARDUINO" 
+    alt="Arduino"
+    title="Arduino" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" 
