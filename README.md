@@ -65,3 +65,13 @@ Olá! me chamo Paulo Willian Costa Rodrigues, tenho 20 anos e sou de Belém do P
 - [Gerador de Currículos Html](https://github.com/PauloWillian1408/Gerador-de-curriculos/tree/master)
 - [Irrigação de Horta Automática AutoIrriga tech](https://github.com/PauloWillian1408/Projeto-hirrigacao-de-horta-automatica/tree/master)
 
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Paulowillian1408&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
