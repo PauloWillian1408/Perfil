@@ -10,15 +10,6 @@ Olá! me chamo Paulo Willian Costa Rodrigues, tenho 20 anos e sou de Belém do P
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -54,5 +45,4 @@ Olá! me chamo Paulo Willian Costa Rodrigues, tenho 20 anos e sou de Belém do P
 <br/>
 
 ## Projetos:
-- [Gerador de Currículos Html](https://github.com/PauloWillian1408/Gerador-de-curriculos/tree/master)
 - [Irrigação de Horta Automática AutoIrriga tech](https://github.com/PauloWillian1408/Projeto-hirrigacao-de-horta-automatica/tree/master)
