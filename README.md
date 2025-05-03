@@ -62,7 +62,7 @@ Olá! me chamo Paulo Willian Costa Rodrigues, tenho 20 anos e sou de Belém do P
 <img 
       align="left"
       alt="GitHub Stats" 
-      height="180"
+      height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulowillian1408&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
