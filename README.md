@@ -3,6 +3,7 @@
 <img src="https://raw.githubusercontent.com/PauloWillian1408/PauloWillian1408/output/snake.svg" alt="Snake animation" />
 
 </div>
+
 # 👨‍💻 Paulo Willian
 
 **`Desenvolvedor Júnior | Desenvolvedor back-end | Técnico em Informática`**
