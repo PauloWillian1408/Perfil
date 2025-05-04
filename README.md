@@ -1,9 +1,3 @@
-<div align=center>
-    
-<img src="https://raw.githubusercontent.com/PauloWillian1408/PauloWillian1408/output/snake.svg" alt="Snake animation" />
-
-</div>
-
 # 👨‍💻 Paulo Willian
 
 **`Desenvolvedor Júnior | Desenvolvedor back-end | Técnico em Informática`**
@@ -75,6 +69,7 @@ Olá! me chamo Paulo Willian Costa Rodrigues, tenho 20 anos e sou de Belém do P
 
 - [AutoIrriga Tech](https://github.com/PauloWillian1408/AutoIrriga-Tech)
 
+---
 <div align=center>
     
 <img src="https://raw.githubusercontent.com/PauloWillian1408/PauloWillian1408/output/snake.svg" alt="Snake animation" />
