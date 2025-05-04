@@ -44,10 +44,6 @@ Olá! me chamo Paulo Willian Costa Rodrigues, tenho 20 anos e sou de Belém do P
 <br/>
 <br/>
 
-## Projetos:
-
-- [AutoIrriga Tech](https://github.com/PauloWillian1408/AutoIrriga-Tech)
-
 ### 📊 Estatísticas
 
 <table>
@@ -69,4 +65,6 @@ Olá! me chamo Paulo Willian Costa Rodrigues, tenho 20 anos e sou de Belém do P
   </tr>
 </table>
 
+## Projetos:
 
+- [AutoIrriga Tech](https://github.com/PauloWillian1408/AutoIrriga-Tech)
